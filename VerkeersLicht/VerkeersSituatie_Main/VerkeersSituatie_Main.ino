@@ -1,6 +1,6 @@
 /*
  * Title : VerkeersSituatie
- * Author : Dibran Dokter 587252
+ * Author : Dibido 587252
  * Klas : I1DD
  * Date : 4-04-2017
  * Decription : Statemachine voor een verkeerssituatie.
